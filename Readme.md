@@ -45,10 +45,14 @@ La base de datos contiene más de 7.000 registros con información como:
 
 ## 📊 Resultados Destacados
 
-- **Fuga del 62%** en clientes con solo 1 mes de permanencia.
-- Contratos mes a mes muestran mayor fuga (**42.7%**) vs contratos a 2 años (**2.8%**).
-- Clientes fugados tienen cargos mensuales promedio más altos (**$74.44**) frente a los que permanecen (**$61.31**).
-- Mayor riesgo en usuarios **senior** y con servicio de **fibra óptica**.
+- La mayoría de las fugas ocurren dentro del primer mes de contrato (**62%**), lo que evidencia la necesidad de fortalecer la fidelización temprana.
+- Los clientes senior tienen una tasa de fuga mayor (**41.7%**) comparado con los no senior (**23.7%**).
+- El tipo de contrato influye fuertemente en la fuga: contratos mensuales muestran una tasa del **42.7%**, mientras que los de dos años solo un **2.8%**.
+- Los clientes que se fugan presentan cargos mensuales más altos (**$74.44 vs $61.31**).
+- También se observa que tienen un precio diario promedio más alto (**$2.48 vs $2.04**) y menor dispersión, lo que sugiere una percepción de mayor costo.
+- En cuanto al gasto total acumulado, **los clientes con fuga tienden a gastar más que quienes se mantienen**, reforzando el vínculo entre percepción de valor y cancelación del servicio.
+- El servicio de Fibra óptica presenta una tasa de fuga del **41.9%**, mientras que DSL y sin internet tienen tasas de **19%** y **7.4%**, respectivamente.
+
 
 ---
 
@@ -64,8 +68,7 @@ La base de datos contiene más de 7.000 registros con información como:
 
 ## 🔗 Accesos Rápidos
 
-- 📄 [Ver informe final en Colab](https://colab.research.google.com/github/TU_USUARIO/Fuga_Clientes_EmpresaX/blob/main/Informe%20Fuga%20Clientes.ipynb)
-
---
+- 📄 Puedes revisar el informe haciendo clic aquí [🔍 Ver en GitHub](./Informe_Challenge2_TelecomX.ipynb)
+---
 
 
